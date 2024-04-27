@@ -15,3 +15,9 @@ For other pins they can generate different width depends on the user.
 ## Clock
 For P2.1 & P2.3 pins, they are PWM output pins self-generated using the TA0 interrupt.
 For P2.2, P2.4 & P2.5 they are PWM output pins using the designed TA1.2 clock interrupt.
+
+
+## Video Demo
+
+[Watch the video demo](video/demo.MOV)
+
